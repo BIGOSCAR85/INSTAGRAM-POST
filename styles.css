@@ -5,6 +5,7 @@
 }
 
 body{
+    margin-top: 5px;
     background-color: black;
     font-family: 'Roboto', sans-serif;
 }
@@ -12,7 +13,7 @@ body{
 #Post{
     background-color: white;
     width: 435px;
-    margin: 0 auto;
+    margin: auto;
     display: flex;
     flex-direction: column;
 }
